@@ -1,0 +1,9 @@
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+
+# Node.js / React
+node_modules/
+build/
+.env
